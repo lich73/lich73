@@ -38,12 +38,6 @@ Apasionado por los videojuegos, compositor musical y analista programador. Hoy o
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Wwise](https://img.shields.io/badge/Wwise-0077C8?style=flat-square&logoColor=white)
 
-### 🎓 Formación
-
-- **Analista Programador**, Duoc UC (2025 - presente)
-- **Especialización en Diseño y Desarrollo de Videojuegos**, Michigan State University, vía Coursera (2023-2024)
-- **Licenciatura en Artes con mención en Composición Musical**, Universidad de Chile (2014-2022)
-
 ### 📚 Aprendiendo ahora
 
 - Bases de datos relacionales y SQL (Duoc UC)
