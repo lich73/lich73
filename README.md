@@ -2,11 +2,11 @@
 
 **Analista Programador & Game Dev**
 
-Bases de Datos · Infraestructura Cloud (AWS) · Automatización · Administración de sistemas · Desarrollo de videojuegos
+Bases de Datos · Infraestructura Cloud (AWS) · Automatización · Desarrollo de videojuegos
 
 Santiago, Chile · [itch.io](https://lich73.itch.io/)
 
-Soy un aficionado a los videojuegos, y por amor a ellos me formé tanto como compositor musical como analista programador. Hoy oriento mi carrera a bases de datos e infraestructura cloud: me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro. En paralelo sigo desarrollando videojuegos, programando en Unity (C#) e implementando audio con Wwise.
+Apasionado por los videojuegos, compositor musical y analista programador. Hoy oriento mi carrera a bases de datos e infraestructura cloud: me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro. En paralelo sigo desarrollando videojuegos, programando en Unity (C#) e implementando audio con Wwise.
 
 ### 🛠️ Stack
 
