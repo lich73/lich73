@@ -1,12 +1,12 @@
 # Hola, soy Daniel 👋
 
-**Analista Programador & Licenciado en Artes**
+**Analista Programador & Game Dev**
 
-Bases de Datos · Infraestructura Cloud (AWS) · Automatización · Administración de sistemas
+Bases de Datos · Infraestructura Cloud (AWS) · Automatización · Administración de sistemas · Desarrollo de videojuegos
 
-Santiago, Chile · [LinkedIn](https://www.linkedin.com/in/[usuario]/)
+Santiago, Chile · [itch.io](https://lich73.itch.io/)
 
-Vengo de la composición musical y la tecnología creativa, y hoy oriento mi carrera a **bases de datos e infraestructura cloud**. Me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro.
+Vengo de la composición musical y la tecnología creativa, y hoy oriento mi carrera a **bases de datos e infraestructura cloud**. Me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro. En paralelo desarrollo **videojuegos**: programo en Unity (C#) e implemento audio con Wwise.
 
 ### 🛠️ Stack
 
@@ -33,18 +33,33 @@ Vengo de la composición musical y la tecnología creativa, y hoy oriento mi car
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
-#### **Creative tech y audio**
+#### **Videojuegos y audio**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Wwise](https://img.shields.io/badge/Wwise-0077C8?style=flat-square&logoColor=white)
 
+### 🎮 Videojuegos
+
+Mis juegos y demos están en [lich73.itch.io](https://lich73.itch.io/).
+
+- **Videojuego Survival Horror 3D** *(en desarrollo, código privado)*: Unity 6 y C#; inventario y optimización de renderizado en tiempo real.
+- **[Backseating Allowed](https://conanblack.itch.io/backseating-allowed)** (2024): simulación en la que juegas como un streamer de exploración urbana y decides si seguir los consejos del chat. Implementación de audio con Wwise y gestión de assets.
+- **[The Explorer 3D, Wwise Demo Reel 2024](https://lich73.itch.io/wwise-demo-reel)**: demostración de implementación de audio con Wwise.
+- **[Rel-X, prototipo](https://lich73.itch.io/relx)** (2022-2023): juego de relajación jugable en el navegador, con mecánicas en C# y Unity.
+- **[3D Platformer](https://lich73.itch.io/3d-plataformer)**: juego de acción 3D jugable en el navegador.
+
 ### 🚀 Proyectos
 
 - **Almacenamiento persistente en AWS (EBS y EFS):** instancia EC2 con Amazon Linux 2023, volumen EBS adjuntado, inicializado y montado.
-- **[EcoDrive Pro](https://github.com/[usuario]/[repositorio]):** aplicación de consola en Kotlin para gestión de electrolineras.
-- **Videojuego Survival Horror 3D** *(en desarrollo, código privado)*: Unity 6 y C#; inventario y optimización de renderizado.
-- **Rel-X** *(en desarrollo, código privado)*: app móvil de respiración guiada en Kotlin y Jetpack Compose.
+- **[EcoDrive Pro](https://github.com/lich73/[repositorio]):** aplicación de consola en Kotlin para gestión de electrolineras.
+- **Rel-X, versión móvil** *(en desarrollo, código privado)*: app de respiración guiada en Kotlin y Jetpack Compose.
 - **[Proyecto de base de datos: modelo relacional con SQL]** *(próximamente)*
+
+### 🎓 Formación
+
+- **Analista Programador**, Duoc UC (2025 - presente)
+- **Especialización en Diseño y Desarrollo de Videojuegos**, Michigan State University, vía Coursera (2023-2024)
+- **Licenciatura en Artes con mención en Composición Musical**, Universidad de Chile (2014-2022)
 
 ### 📚 Aprendiendo ahora
 
