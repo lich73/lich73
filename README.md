@@ -1,4 +1,4 @@
-# Hola, soy Daniel 👋
+# Hola! Soy Daniel 👋
 
 **Analista Programador & Game Dev**
 
@@ -6,7 +6,7 @@ Bases de Datos · Infraestructura Cloud (AWS) · Automatización · Administraci
 
 Santiago, Chile · [itch.io](https://lich73.itch.io/)
 
-Vengo de la composición musical y la tecnología creativa, y hoy oriento mi carrera a **bases de datos e infraestructura cloud**. Me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro. En paralelo desarrollo **videojuegos**: programo en Unity (C#) e implemento audio con Wwise.
+Soy un aficionado a los videojuegos, y por amor a ellos me formé tanto como compositor musical como analista programador. Hoy oriento mi carrera a bases de datos e infraestructura cloud: me gusta automatizar tareas, diagnosticar problemas y entender cómo funcionan los sistemas por dentro. En paralelo sigo desarrollando videojuegos, programando en Unity (C#) e implementando audio con Wwise.
 
 ### 🛠️ Stack
 
@@ -37,23 +37,6 @@ Vengo de la composición musical y la tecnología creativa, y hoy oriento mi car
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Wwise](https://img.shields.io/badge/Wwise-0077C8?style=flat-square&logoColor=white)
-
-### 🎮 Videojuegos
-
-Mis juegos y demos están en [lich73.itch.io](https://lich73.itch.io/).
-
-- **Videojuego Survival Horror 3D** *(en desarrollo, código privado)*: Unity 6 y C#; inventario y optimización de renderizado en tiempo real.
-- **[Backseating Allowed](https://conanblack.itch.io/backseating-allowed)** (2024): simulación en la que juegas como un streamer de exploración urbana y decides si seguir los consejos del chat. Implementación de audio con Wwise y gestión de assets.
-- **[The Explorer 3D, Wwise Demo Reel 2024](https://lich73.itch.io/wwise-demo-reel)**: demostración de implementación de audio con Wwise.
-- **[Rel-X, prototipo](https://lich73.itch.io/relx)** (2022-2023): juego de relajación jugable en el navegador, con mecánicas en C# y Unity.
-- **[3D Platformer](https://lich73.itch.io/3d-plataformer)**: juego de acción 3D jugable en el navegador.
-
-### 🚀 Proyectos
-
-- **Almacenamiento persistente en AWS (EBS y EFS):** instancia EC2 con Amazon Linux 2023, volumen EBS adjuntado, inicializado y montado.
-- **[EcoDrive Pro](https://github.com/lich73/[repositorio]):** aplicación de consola en Kotlin para gestión de electrolineras.
-- **Rel-X, versión móvil** *(en desarrollo, código privado)*: app de respiración guiada en Kotlin y Jetpack Compose.
-- **[Proyecto de base de datos: modelo relacional con SQL]** *(próximamente)*
 
 ### 🎓 Formación
 
